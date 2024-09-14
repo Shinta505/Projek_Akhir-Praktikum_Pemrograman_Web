@@ -4,7 +4,7 @@
  ###### 1. Shinta Nursobah Chairani / 123220074
  ###### 2. Laras Ayodyasari / 123220081
 
- ####### FITUR FOR PATIENT
+ <b> FITUR FOR PATIENT </b>
  1. Login Page
  2. Sign Up
  3. Home
@@ -18,7 +18,7 @@
  8. Find A Doctor and Make An Appoinment
  9. Logout
 
-######### FITUR FOR ADMIN
+<b> FITUR FOR ADMIN </b>
 1. Login Page
 2. Home
 3. Data Patient
